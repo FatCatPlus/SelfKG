@@ -63,3 +63,10 @@ data/LaBSE/checkpoint
 data/LaBSE/config.json
 data/LaBSE/pytorch_model.bin
 data/LaBSE/vocab.txt
+script/preprocess/__pycache__/get_token.cpython-38.pyc
+script/preprocess/__pycache__/deal_raw_dataset.cpython-38.pyc
+model/__pycache__/layers_LaBSE_neighbor.cpython-38.pyc
+model/__pycache__/__init__.cpython-38.pyc
+loader/__pycache__/DBP15KRawNeighbors.cpython-38.pyc
+loader/__pycache__/DBP15k.cpython-38.pyc
+__pycache__/settings.cpython-38.pyc

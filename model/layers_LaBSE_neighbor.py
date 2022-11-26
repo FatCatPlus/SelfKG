@@ -1,26 +1,26 @@
 # coding: UTF-8
-import os
-from posixpath import join
-import torch
-import torch.nn as nn
-from torch.nn import *
-import torch.nn.functional as F
-import numpy as np
-import torch.optim as optim
-from settings import *
-import torch.utils.data as Data
-from loader.DBP15KRawNeighbors import DBP15KRawNeighbors
-from script.preprocess.deal_raw_dataset import MyRawdataset
-import random
-import faiss
-import pandas as pd
 import argparse
 import logging
+import os
+import random
 from datetime import datetime
+from posixpath import join
+
+import faiss
+import numpy as np
+import pandas as pd
 # using labse
 # from transformers import *
 import torch
+import torch.nn as nn
+import torch.nn.functional as F
+import torch.optim as optim
+import torch.utils.data as Data
+from torch.nn import *
 
+from loader.DBP15KRawNeighbors import DBP15KRawNeighbors
+from script.preprocess.deal_raw_dataset import MyRawdataset
+from settings import *
 
 # Labse embedding dim
 MAX_LEN = 88
@@ -258,7 +258,6 @@ class Trainer(object):
         # self.neg_valid_num_queue2 = None
 
         self.id_list1 = []
-
         if training:
             # self.writer = SummaryWriter(
             #     log_dir=join(PROJ_DIR, 'log', self.args.model, self.args.model_language, self.args.time),
