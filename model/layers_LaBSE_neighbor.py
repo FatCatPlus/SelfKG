@@ -109,6 +109,7 @@ class MyEmbedder(nn.Module):
 
     def forward(self, batch):
         batch = batch.to(self.device)
+        # K个样本：20个center_neighbor:768个DIM+20个adj
         batch_in = batch[:, :, :LaBSE_DIM]
         adj = batch[:, :, LaBSE_DIM:]
 
@@ -266,7 +267,7 @@ class Trainer(object):
             self.model = MyEmbedder(self.args, VOCAB_SIZE).to(self.device)
             self._model = MyEmbedder(self.args, VOCAB_SIZE).to(self.device)
             self._model.update(self.model)
-
+            
             emb_dim = LaBSE_DIM
             self.iteration = 0
             self.lr = self.args.lr
