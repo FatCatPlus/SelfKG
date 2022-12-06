@@ -70,3 +70,6 @@ model/__pycache__/__init__.cpython-38.pyc
 loader/__pycache__/DBP15KRawNeighbors.cpython-38.pyc
 loader/__pycache__/DBP15k.cpython-38.pyc
 __pycache__/settings.cpython-38.pyc
+checkpoints/LaBSE/fr_en/model_neighbor_True_epoch_149_batch_size_96_neg_queue_len_63.ckpt
+checkpoints/LaBSE/ja_en/model_neighbor_True_epoch_149_batch_size_96_neg_queue_len_63.ckpt
+fr_num.pckl
