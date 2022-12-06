@@ -1,0 +1,2560 @@
+INFO:root:*** Evaluate at the very beginning ***
+INFO:root:Evaluate at epoch 0...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.764
+INFO:root:Hit@10:0.867
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.76
+INFO:root:Hit@10:0.867
+INFO:root:epoch: 0 batch: 617 loss: 0.10610482096672058
+INFO:root:Evaluate at epoch 0: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.72
+INFO:root:Hit@10:0.871
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.744
+INFO:root:Hit@10:0.875
+INFO:root:Test Hit@1(10)    = 0.744(0.875) at epoch 0 batch 617
+INFO:root:Best Valid Hit@1  = 0.72(0.871) at epoch 0
+INFO:root:Best Valid Hit@10 = 0.871(0.72) at epoch 0
+INFO:root:Test @ Best Valid = 0.744(0.875) at epoch 0 batch 617
+INFO:root:Best Test  Hit@1  = 0.744(0.875) at epoch 0
+INFO:root:Best Test  Hit@10 = 0.875(0.744) at epoch 0
+INFO:root:====================================
+INFO:root:epoch: 1 batch: 617 loss: 0.08867255598306656
+INFO:root:Evaluate at epoch 1: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.738
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.766
+INFO:root:Hit@10:0.888
+INFO:root:Test Hit@1(10)    = 0.766(0.888) at epoch 1 batch 617
+INFO:root:Best Valid Hit@1  = 0.738(0.889) at epoch 1
+INFO:root:Best Valid Hit@10 = 0.889(0.738) at epoch 1
+INFO:root:Test @ Best Valid = 0.766(0.888) at epoch 1 batch 617
+INFO:root:Best Test  Hit@1  = 0.766(0.888) at epoch 1
+INFO:root:Best Test  Hit@10 = 0.888(0.766) at epoch 1
+INFO:root:====================================
+INFO:root:epoch: 2 batch: 617 loss: 0.07853587716817856
+INFO:root:Evaluate at epoch 2: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.738
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.769
+INFO:root:Hit@10:0.893
+INFO:root:Test Hit@1(10)    = 0.769(0.893) at epoch 2 batch 617
+INFO:root:Best Valid Hit@1  = 0.738(0.889) at epoch 1
+INFO:root:Best Valid Hit@10 = 0.893(0.738) at epoch 2
+INFO:root:Test @ Best Valid = 0.769(0.893) at epoch 2 batch 617
+INFO:root:Best Test  Hit@1  = 0.769(0.893) at epoch 2
+INFO:root:Best Test  Hit@10 = 0.893(0.769) at epoch 2
+INFO:root:====================================
+INFO:root:epoch: 3 batch: 617 loss: 0.07048355787992477
+INFO:root:Evaluate at epoch 3: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.742
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.777
+INFO:root:Hit@10:0.899
+INFO:root:Test Hit@1(10)    = 0.777(0.899) at epoch 3 batch 617
+INFO:root:Best Valid Hit@1  = 0.742(0.898) at epoch 3
+INFO:root:Best Valid Hit@10 = 0.898(0.742) at epoch 3
+INFO:root:Test @ Best Valid = 0.777(0.899) at epoch 3 batch 617
+INFO:root:Best Test  Hit@1  = 0.777(0.899) at epoch 3
+INFO:root:Best Test  Hit@10 = 0.899(0.777) at epoch 3
+INFO:root:====================================
+INFO:root:epoch: 4 batch: 617 loss: 0.06318087130784988
+INFO:root:Evaluate at epoch 4: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.764
+INFO:root:Hit@10:0.902
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.786
+INFO:root:Hit@10:0.902
+INFO:root:Test Hit@1(10)    = 0.786(0.902) at epoch 4 batch 617
+INFO:root:Best Valid Hit@1  = 0.764(0.902) at epoch 4
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.786(0.902) at epoch 4 batch 617
+INFO:root:Best Test  Hit@1  = 0.786(0.902) at epoch 4
+INFO:root:Best Test  Hit@10 = 0.902(0.786) at epoch 4
+INFO:root:====================================
+INFO:root:epoch: 5 batch: 617 loss: 0.05632470175623894
+INFO:root:Evaluate at epoch 5: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.764
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.903
+INFO:root:Test Hit@1(10)    = 0.791(0.903) at epoch 5 batch 617
+INFO:root:Best Valid Hit@1  = 0.764(0.902) at epoch 4
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.786(0.902) at epoch 4 batch 617
+INFO:root:Best Test  Hit@1  = 0.791(0.903) at epoch 5
+INFO:root:Best Test  Hit@10 = 0.903(0.791) at epoch 5
+INFO:root:====================================
+INFO:root:epoch: 6 batch: 617 loss: 0.049879904836416245
+INFO:root:Evaluate at epoch 6: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.769
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.794
+INFO:root:Hit@10:0.904
+INFO:root:Test Hit@1(10)    = 0.794(0.904) at epoch 6 batch 617
+INFO:root:Best Valid Hit@1  = 0.769(0.898) at epoch 6
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.794(0.904) at epoch 6 batch 617
+INFO:root:Best Test  Hit@1  = 0.794(0.904) at epoch 6
+INFO:root:Best Test  Hit@10 = 0.904(0.794) at epoch 6
+INFO:root:====================================
+INFO:root:epoch: 7 batch: 617 loss: 0.04384513944387436
+INFO:root:Evaluate at epoch 7: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.778
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.904
+INFO:root:Test Hit@1(10)    = 0.796(0.904) at epoch 7 batch 617
+INFO:root:Best Valid Hit@1  = 0.778(0.893) at epoch 7
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.796(0.904) at epoch 7 batch 617
+INFO:root:Best Test  Hit@1  = 0.796(0.904) at epoch 7
+INFO:root:Best Test  Hit@10 = 0.904(0.794) at epoch 6
+INFO:root:====================================
+INFO:root:epoch: 8 batch: 617 loss: 0.03824840858578682
+INFO:root:Evaluate at epoch 8: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.787
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.798
+INFO:root:Hit@10:0.904
+INFO:root:Test Hit@1(10)    = 0.798(0.904) at epoch 8 batch 617
+INFO:root:Best Valid Hit@1  = 0.787(0.898) at epoch 8
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.798(0.904) at epoch 8 batch 617
+INFO:root:Best Test  Hit@1  = 0.798(0.904) at epoch 8
+INFO:root:Best Test  Hit@10 = 0.904(0.794) at epoch 6
+INFO:root:====================================
+INFO:root:epoch: 9 batch: 617 loss: 0.033505842089653015
+INFO:root:Evaluate at epoch 9: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.787
+INFO:root:Hit@10:0.902
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.8
+INFO:root:Hit@10:0.904
+INFO:root:Test Hit@1(10)    = 0.8(0.904) at epoch 9 batch 617
+INFO:root:Best Valid Hit@1  = 0.787(0.898) at epoch 8
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.798(0.904) at epoch 8 batch 617
+INFO:root:Best Test  Hit@1  = 0.8(0.904) at epoch 9
+INFO:root:Best Test  Hit@10 = 0.904(0.794) at epoch 6
+INFO:root:====================================
+INFO:root:epoch: 10 batch: 617 loss: 0.028783125802874565
+INFO:root:Evaluate at epoch 10: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.902
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.8
+INFO:root:Hit@10:0.905
+INFO:root:Test Hit@1(10)    = 0.8(0.905) at epoch 10 batch 617
+INFO:root:Best Valid Hit@1  = 0.791(0.902) at epoch 10
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.8(0.905) at epoch 10 batch 617
+INFO:root:Best Test  Hit@1  = 0.8(0.904) at epoch 9
+INFO:root:Best Test  Hit@10 = 0.905(0.8) at epoch 10
+INFO:root:====================================
+INFO:root:epoch: 11 batch: 617 loss: 0.024586135521531105
+INFO:root:Evaluate at epoch 11: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.902
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.802
+INFO:root:Hit@10:0.906
+INFO:root:Test Hit@1(10)    = 0.802(0.906) at epoch 11 batch 617
+INFO:root:Best Valid Hit@1  = 0.791(0.902) at epoch 10
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.8(0.905) at epoch 10 batch 617
+INFO:root:Best Test  Hit@1  = 0.802(0.906) at epoch 11
+INFO:root:Best Test  Hit@10 = 0.906(0.802) at epoch 11
+INFO:root:====================================
+INFO:root:epoch: 12 batch: 617 loss: 0.020907500758767128
+INFO:root:Evaluate at epoch 12: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.902
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.802
+INFO:root:Hit@10:0.907
+INFO:root:Test Hit@1(10)    = 0.802(0.907) at epoch 12 batch 617
+INFO:root:Best Valid Hit@1  = 0.791(0.902) at epoch 10
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.8(0.905) at epoch 10 batch 617
+INFO:root:Best Test  Hit@1  = 0.802(0.906) at epoch 11
+INFO:root:Best Test  Hit@10 = 0.907(0.802) at epoch 12
+INFO:root:====================================
+INFO:root:epoch: 13 batch: 617 loss: 0.01772085390985012
+INFO:root:Evaluate at epoch 13: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.908
+INFO:root:Test Hit@1(10)    = 0.804(0.908) at epoch 13 batch 617
+INFO:root:Best Valid Hit@1  = 0.796(0.898) at epoch 13
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.804(0.908) at epoch 13 batch 617
+INFO:root:Best Test  Hit@1  = 0.804(0.908) at epoch 13
+INFO:root:Best Test  Hit@10 = 0.908(0.804) at epoch 13
+INFO:root:====================================
+INFO:root:epoch: 14 batch: 617 loss: 0.014991498552262783
+INFO:root:Evaluate at epoch 14: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.8
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.805
+INFO:root:Hit@10:0.908
+INFO:root:Test Hit@1(10)    = 0.805(0.908) at epoch 14 batch 617
+INFO:root:Best Valid Hit@1  = 0.8(0.898) at epoch 14
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.805(0.908) at epoch 14 batch 617
+INFO:root:Best Test  Hit@1  = 0.805(0.908) at epoch 14
+INFO:root:Best Test  Hit@10 = 0.908(0.804) at epoch 13
+INFO:root:====================================
+INFO:root:epoch: 15 batch: 617 loss: 0.012677598744630814
+INFO:root:Evaluate at epoch 15: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.8
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.806
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.806(0.91) at epoch 15 batch 617
+INFO:root:Best Valid Hit@1  = 0.8(0.898) at epoch 14
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.805(0.908) at epoch 14 batch 617
+INFO:root:Best Test  Hit@1  = 0.806(0.91) at epoch 15
+INFO:root:Best Test  Hit@10 = 0.91(0.806) at epoch 15
+INFO:root:====================================
+INFO:root:epoch: 16 batch: 617 loss: 0.01073287520557642
+INFO:root:Evaluate at epoch 16: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.8
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.808
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.808(0.91) at epoch 16 batch 617
+INFO:root:Best Valid Hit@1  = 0.8(0.898) at epoch 14
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.805(0.908) at epoch 14 batch 617
+INFO:root:Best Test  Hit@1  = 0.808(0.91) at epoch 16
+INFO:root:Best Test  Hit@10 = 0.91(0.806) at epoch 15
+INFO:root:====================================
+INFO:root:epoch: 17 batch: 617 loss: 0.009109558537602425
+INFO:root:Evaluate at epoch 17: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.809(0.91) at epoch 17 batch 617
+INFO:root:Best Valid Hit@1  = 0.804(0.898) at epoch 17
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.809(0.91) at epoch 17 batch 617
+INFO:root:Best Test  Hit@1  = 0.809(0.91) at epoch 17
+INFO:root:Best Test  Hit@10 = 0.91(0.806) at epoch 15
+INFO:root:====================================
+INFO:root:epoch: 18 batch: 617 loss: 0.007761209271848202
+INFO:root:Evaluate at epoch 18: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.902
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.81
+INFO:root:Hit@10:0.911
+INFO:root:Test Hit@1(10)    = 0.81(0.911) at epoch 18 batch 617
+INFO:root:Best Valid Hit@1  = 0.804(0.898) at epoch 17
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.809(0.91) at epoch 17 batch 617
+INFO:root:Best Test  Hit@1  = 0.81(0.911) at epoch 18
+INFO:root:Best Test  Hit@10 = 0.911(0.81) at epoch 18
+INFO:root:====================================
+INFO:root:epoch: 19 batch: 617 loss: 0.00665832357481122
+INFO:root:Evaluate at epoch 19: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.902
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.811
+INFO:root:Hit@10:0.911
+INFO:root:Test Hit@1(10)    = 0.811(0.911) at epoch 19 batch 617
+INFO:root:Best Valid Hit@1  = 0.804(0.898) at epoch 17
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.809(0.91) at epoch 17 batch 617
+INFO:root:Best Test  Hit@1  = 0.811(0.911) at epoch 19
+INFO:root:Best Test  Hit@10 = 0.911(0.81) at epoch 18
+INFO:root:====================================
+INFO:root:epoch: 20 batch: 617 loss: 0.005735401529818773
+INFO:root:Evaluate at epoch 20: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.902
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.811
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.811(0.912) at epoch 20 batch 617
+INFO:root:Best Valid Hit@1  = 0.804(0.898) at epoch 17
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.809(0.91) at epoch 17 batch 617
+INFO:root:Best Test  Hit@1  = 0.811(0.911) at epoch 19
+INFO:root:Best Test  Hit@10 = 0.912(0.811) at epoch 20
+INFO:root:====================================
+INFO:root:epoch: 21 batch: 617 loss: 0.004969077184796333
+INFO:root:Evaluate at epoch 21: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.8
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.812(0.912) at epoch 21 batch 617
+INFO:root:Best Valid Hit@1  = 0.804(0.898) at epoch 17
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.809(0.91) at epoch 17 batch 617
+INFO:root:Best Test  Hit@1  = 0.812(0.912) at epoch 21
+INFO:root:Best Test  Hit@10 = 0.912(0.811) at epoch 20
+INFO:root:====================================
+INFO:root:epoch: 22 batch: 617 loss: 0.00433462206274271
+INFO:root:Evaluate at epoch 22: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.8
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.813(0.912) at epoch 22 batch 617
+INFO:root:Best Valid Hit@1  = 0.804(0.898) at epoch 17
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.809(0.91) at epoch 17 batch 617
+INFO:root:Best Test  Hit@1  = 0.813(0.912) at epoch 22
+INFO:root:Best Test  Hit@10 = 0.912(0.811) at epoch 20
+INFO:root:====================================
+INFO:root:epoch: 23 batch: 617 loss: 0.003807868342846632
+INFO:root:Evaluate at epoch 23: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.814
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.814(0.912) at epoch 23 batch 617
+INFO:root:Best Valid Hit@1  = 0.804(0.898) at epoch 17
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.809(0.91) at epoch 17 batch 617
+INFO:root:Best Test  Hit@1  = 0.814(0.912) at epoch 23
+INFO:root:Best Test  Hit@10 = 0.912(0.811) at epoch 20
+INFO:root:====================================
+INFO:root:epoch: 24 batch: 617 loss: 0.003368993755429983
+INFO:root:Evaluate at epoch 24: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.902
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.814
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.902(0.764) at epoch 4
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.814(0.912) at epoch 23
+INFO:root:Best Test  Hit@10 = 0.912(0.811) at epoch 20
+INFO:root:====================================
+INFO:root:epoch: 25 batch: 617 loss: 0.003001842647790909
+INFO:root:Evaluate at epoch 25: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.907
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.814
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.814(0.913) at epoch 25 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.814(0.912) at epoch 23
+INFO:root:Best Test  Hit@10 = 0.913(0.814) at epoch 25
+INFO:root:====================================
+INFO:root:epoch: 26 batch: 617 loss: 0.0026933199260383844
+INFO:root:Evaluate at epoch 26: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.907
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.815
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.815(0.913) at epoch 26 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.815(0.913) at epoch 26
+INFO:root:Best Test  Hit@10 = 0.913(0.814) at epoch 25
+INFO:root:====================================
+INFO:root:epoch: 27 batch: 617 loss: 0.002432830398902297
+INFO:root:Evaluate at epoch 27: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.907
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.815
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.815(0.913) at epoch 27 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.815(0.913) at epoch 26
+INFO:root:Best Test  Hit@10 = 0.913(0.814) at epoch 25
+INFO:root:====================================
+INFO:root:epoch: 28 batch: 617 loss: 0.0022118317428976297
+INFO:root:Evaluate at epoch 28: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.907
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.816
+INFO:root:Hit@10:0.914
+INFO:root:Test Hit@1(10)    = 0.816(0.914) at epoch 28 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.816(0.914) at epoch 28
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 29 batch: 617 loss: 0.002023169072344899
+INFO:root:Evaluate at epoch 29: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.907
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.816
+INFO:root:Hit@10:0.914
+INFO:root:Test Hit@1(10)    = 0.816(0.914) at epoch 29 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.816(0.914) at epoch 28
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 30 batch: 617 loss: 0.0018634578445926309
+INFO:root:Evaluate at epoch 30: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.907
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.816
+INFO:root:Hit@10:0.914
+INFO:root:Test Hit@1(10)    = 0.816(0.914) at epoch 30 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.816(0.914) at epoch 28
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 31 batch: 617 loss: 0.0017244612099602818
+INFO:root:Evaluate at epoch 31: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.907
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.816
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.816(0.913) at epoch 31 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.816(0.914) at epoch 28
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 32 batch: 617 loss: 0.0016042400384321809
+INFO:root:Evaluate at epoch 32: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.907
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.816
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.816(0.913) at epoch 32 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.816(0.914) at epoch 28
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 33 batch: 617 loss: 0.0014997884863987565
+INFO:root:Evaluate at epoch 33: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.907
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.816
+INFO:root:Hit@10:0.914
+INFO:root:Test Hit@1(10)    = 0.816(0.914) at epoch 33 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.816(0.914) at epoch 28
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 34 batch: 617 loss: 0.0014086468145251274
+INFO:root:Evaluate at epoch 34: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.907
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.817
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.817(0.913) at epoch 34 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.817(0.913) at epoch 34
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 35 batch: 617 loss: 0.0013287829933688045
+INFO:root:Evaluate at epoch 35: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.907
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.817
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.817(0.913) at epoch 35 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.817(0.913) at epoch 34
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 36 batch: 617 loss: 0.001258515170775354
+INFO:root:Evaluate at epoch 36: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.907
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.817
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.817(0.913) at epoch 36 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.817(0.913) at epoch 34
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 37 batch: 617 loss: 0.001196456141769886
+INFO:root:Evaluate at epoch 37: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.907
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 37 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 38 batch: 617 loss: 0.0011414330219849944
+INFO:root:Evaluate at epoch 38: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.907
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 38 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 39 batch: 617 loss: 0.0010918318293988705
+INFO:root:Evaluate at epoch 39: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.902
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 39 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 40 batch: 617 loss: 0.001049242215231061
+INFO:root:Evaluate at epoch 40: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.902
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 40 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 41 batch: 617 loss: 0.0010101342340931296
+INFO:root:Evaluate at epoch 41: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.902
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 41 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 42 batch: 617 loss: 0.0009749693563207984
+INFO:root:Evaluate at epoch 42: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.818(0.912) at epoch 42 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 43 batch: 617 loss: 0.0009432585211470723
+INFO:root:Evaluate at epoch 43: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.818(0.912) at epoch 43 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 44 batch: 617 loss: 0.0009145806543529034
+INFO:root:Evaluate at epoch 44: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 44 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 45 batch: 617 loss: 0.0008885672432370484
+INFO:root:Evaluate at epoch 45: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 45 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 46 batch: 617 loss: 0.0008649107767269015
+INFO:root:Evaluate at epoch 46: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 46 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 47 batch: 617 loss: 0.000843333313241601
+INFO:root:Evaluate at epoch 47: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 47 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 48 batch: 617 loss: 0.0008236013236455619
+INFO:root:Evaluate at epoch 48: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 48 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 49 batch: 617 loss: 0.000805026909802109
+INFO:root:Evaluate at epoch 49: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 49 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 50 batch: 617 loss: 0.000789145240560174
+INFO:root:Evaluate at epoch 50: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 50 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 51 batch: 617 loss: 0.0007738592685200274
+INFO:root:Evaluate at epoch 51: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 51 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 52 batch: 617 loss: 0.0007597221992909908
+INFO:root:Evaluate at epoch 52: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 52 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 53 batch: 617 loss: 0.0007466276874765754
+INFO:root:Evaluate at epoch 53: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 53 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 54 batch: 617 loss: 0.0007344697369262576
+INFO:root:Evaluate at epoch 54: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 54 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 55 batch: 617 loss: 0.0007231571362353861
+INFO:root:Evaluate at epoch 55: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.817
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.817(0.913) at epoch 55 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 56 batch: 617 loss: 0.0007126080454327166
+INFO:root:Evaluate at epoch 56: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.817
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.817(0.913) at epoch 56 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 57 batch: 617 loss: 0.0007027511019259691
+INFO:root:Evaluate at epoch 57: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 57 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 58 batch: 617 loss: 0.0006935198907740414
+INFO:root:Evaluate at epoch 58: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 58 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 59 batch: 617 loss: 0.0006845426396466792
+INFO:root:Evaluate at epoch 59: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.914
+INFO:root:Test Hit@1(10)    = 0.818(0.914) at epoch 59 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 60 batch: 617 loss: 0.0006768990424461663
+INFO:root:Evaluate at epoch 60: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 60 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 61 batch: 617 loss: 0.0006692587630823255
+INFO:root:Evaluate at epoch 61: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.914
+INFO:root:Test Hit@1(10)    = 0.818(0.914) at epoch 61 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 62 batch: 617 loss: 0.0006620365893468261
+INFO:root:Evaluate at epoch 62: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 62 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.818(0.913) at epoch 37
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 63 batch: 617 loss: 0.0006552004488185048
+INFO:root:Evaluate at epoch 63: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.819
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.819(0.913) at epoch 63 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.819(0.913) at epoch 63
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 64 batch: 617 loss: 0.0006487258360721171
+INFO:root:Evaluate at epoch 64: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.819
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.819(0.913) at epoch 64 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.819(0.913) at epoch 63
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 65 batch: 617 loss: 0.0006425782339647412
+INFO:root:Evaluate at epoch 65: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 65 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.819(0.913) at epoch 63
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 66 batch: 617 loss: 0.0006367337773554027
+INFO:root:Evaluate at epoch 66: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.819
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.819(0.913) at epoch 66 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.819(0.913) at epoch 63
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 67 batch: 617 loss: 0.0006311705219559371
+INFO:root:Evaluate at epoch 67: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.898
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.819
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.819(0.913) at epoch 67 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.819(0.913) at epoch 63
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 68 batch: 617 loss: 0.0006258643697947264
+INFO:root:Evaluate at epoch 68: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.819
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.819(0.913) at epoch 68 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.819(0.913) at epoch 63
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 69 batch: 617 loss: 0.0006205880781635642
+INFO:root:Evaluate at epoch 69: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.818(0.913) at epoch 69 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.819(0.913) at epoch 63
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 70 batch: 617 loss: 0.0006160906050354242
+INFO:root:Evaluate at epoch 70: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.819
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.819(0.913) at epoch 70 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.819(0.913) at epoch 63
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 71 batch: 617 loss: 0.0006114738062024117
+INFO:root:Evaluate at epoch 71: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.819
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.819(0.913) at epoch 71 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.819(0.913) at epoch 63
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 72 batch: 617 loss: 0.0006070362287573516
+INFO:root:Evaluate at epoch 72: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.82
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.82(0.913) at epoch 72 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 73 batch: 617 loss: 0.0006027728086337447
+INFO:root:Evaluate at epoch 73: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.82
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.82(0.913) at epoch 73 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 74 batch: 617 loss: 0.0005986704491078854
+INFO:root:Evaluate at epoch 74: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.82
+INFO:root:Hit@10:0.913
+INFO:root:Test Hit@1(10)    = 0.82(0.913) at epoch 74 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 75 batch: 617 loss: 0.0005947212921455503
+INFO:root:Evaluate at epoch 75: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.82
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.82(0.912) at epoch 75 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 76 batch: 617 loss: 0.0005909141036681831
+INFO:root:Evaluate at epoch 76: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.82
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.82(0.912) at epoch 76 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 77 batch: 617 loss: 0.0005872410256415606
+INFO:root:Evaluate at epoch 77: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.82
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.82(0.912) at epoch 77 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 78 batch: 617 loss: 0.000583695073146373
+INFO:root:Evaluate at epoch 78: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.82
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.82(0.912) at epoch 78 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 79 batch: 617 loss: 0.0005801039515063167
+INFO:root:Evaluate at epoch 79: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.82
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.82(0.912) at epoch 79 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 80 batch: 617 loss: 0.0005770638817921281
+INFO:root:Evaluate at epoch 80: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.82
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.82(0.912) at epoch 80 batch 617
+INFO:root:Best Valid Hit@1  = 0.809(0.902) at epoch 24
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.814(0.912) at epoch 24 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 81 batch: 617 loss: 0.0005738686304539442
+INFO:root:Evaluate at epoch 81: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.893
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.819
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 82 batch: 617 loss: 0.0005707675009034574
+INFO:root:Evaluate at epoch 82: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.819
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.819(0.912) at epoch 82 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 83 batch: 617 loss: 0.0005677565932273865
+INFO:root:Evaluate at epoch 83: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.82
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.82(0.912) at epoch 83 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 84 batch: 617 loss: 0.0005648291553370655
+INFO:root:Evaluate at epoch 84: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.82
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.82(0.912) at epoch 84 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 85 batch: 617 loss: 0.0005619853618554771
+INFO:root:Evaluate at epoch 85: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.819
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.819(0.912) at epoch 85 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 86 batch: 617 loss: 0.0005592211382463574
+INFO:root:Evaluate at epoch 86: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.82
+INFO:root:Hit@10:0.912
+INFO:root:Test Hit@1(10)    = 0.82(0.912) at epoch 86 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 87 batch: 617 loss: 0.0005565317696891725
+INFO:root:Evaluate at epoch 87: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.819
+INFO:root:Hit@10:0.911
+INFO:root:Test Hit@1(10)    = 0.819(0.911) at epoch 87 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 88 batch: 617 loss: 0.0005539102712646127
+INFO:root:Evaluate at epoch 88: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.819
+INFO:root:Hit@10:0.911
+INFO:root:Test Hit@1(10)    = 0.819(0.911) at epoch 88 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 89 batch: 617 loss: 0.0005512040224857628
+INFO:root:Evaluate at epoch 89: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.809
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.819
+INFO:root:Hit@10:0.911
+INFO:root:Test Hit@1(10)    = 0.819(0.911) at epoch 89 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 90 batch: 617 loss: 0.0005489684408530593
+INFO:root:Evaluate at epoch 90: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.819
+INFO:root:Hit@10:0.911
+INFO:root:Test Hit@1(10)    = 0.819(0.911) at epoch 90 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 91 batch: 617 loss: 0.0005465589929372072
+INFO:root:Evaluate at epoch 91: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.911
+INFO:root:Test Hit@1(10)    = 0.818(0.911) at epoch 91 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 92 batch: 617 loss: 0.0005441991379484534
+INFO:root:Evaluate at epoch 92: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.911
+INFO:root:Test Hit@1(10)    = 0.818(0.911) at epoch 92 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 93 batch: 617 loss: 0.0005418965592980385
+INFO:root:Evaluate at epoch 93: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.911
+INFO:root:Test Hit@1(10)    = 0.818(0.911) at epoch 93 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 94 batch: 617 loss: 0.000539646774996072
+INFO:root:Evaluate at epoch 94: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.911
+INFO:root:Test Hit@1(10)    = 0.818(0.911) at epoch 94 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 95 batch: 617 loss: 0.0005374471074901521
+INFO:root:Evaluate at epoch 95: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.911
+INFO:root:Test Hit@1(10)    = 0.818(0.911) at epoch 95 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 96 batch: 617 loss: 0.0005352952284738421
+INFO:root:Evaluate at epoch 96: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.818(0.91) at epoch 96 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 97 batch: 617 loss: 0.0005331927677616477
+INFO:root:Evaluate at epoch 97: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.818
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.818(0.91) at epoch 97 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 98 batch: 617 loss: 0.0005311354761943221
+INFO:root:Evaluate at epoch 98: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.817
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.817(0.91) at epoch 98 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 99 batch: 617 loss: 0.0005289546097628772
+INFO:root:Evaluate at epoch 99: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.817
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.817(0.91) at epoch 99 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 100 batch: 617 loss: 0.0005272268899716437
+INFO:root:Evaluate at epoch 100: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.817
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.817(0.91) at epoch 100 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 101 batch: 617 loss: 0.000525305571500212
+INFO:root:Evaluate at epoch 101: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.817
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.817(0.91) at epoch 101 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 102 batch: 617 loss: 0.0005234188283793628
+INFO:root:Evaluate at epoch 102: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.817
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.817(0.91) at epoch 102 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 103 batch: 617 loss: 0.0005215670680627227
+INFO:root:Evaluate at epoch 103: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.804
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.817
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.817(0.91) at epoch 103 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 104 batch: 617 loss: 0.0005197522696107626
+INFO:root:Evaluate at epoch 104: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.8
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.817
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.817(0.91) at epoch 104 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 105 batch: 617 loss: 0.000517971464432776
+INFO:root:Evaluate at epoch 105: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.8
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.816
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.816(0.91) at epoch 105 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 106 batch: 617 loss: 0.0005162219167686999
+INFO:root:Evaluate at epoch 106: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.8
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.816
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.816(0.91) at epoch 106 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 107 batch: 617 loss: 0.00051450589671731
+INFO:root:Evaluate at epoch 107: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.8
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.816
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.816(0.91) at epoch 107 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 108 batch: 617 loss: 0.0005128229968249798
+INFO:root:Evaluate at epoch 108: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.8
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.816
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.816(0.91) at epoch 108 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 109 batch: 617 loss: 0.000510987127199769
+INFO:root:Evaluate at epoch 109: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.8
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.816
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.816(0.91) at epoch 109 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 110 batch: 617 loss: 0.000509611563757062
+INFO:root:Evaluate at epoch 110: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.8
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.816
+INFO:root:Hit@10:0.91
+INFO:root:Test Hit@1(10)    = 0.816(0.91) at epoch 110 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 111 batch: 617 loss: 0.0005080256378278136
+INFO:root:Evaluate at epoch 111: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.8
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.815
+INFO:root:Hit@10:0.909
+INFO:root:Test Hit@1(10)    = 0.815(0.909) at epoch 111 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 112 batch: 617 loss: 0.000506464100908488
+INFO:root:Evaluate at epoch 112: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.8
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.815
+INFO:root:Hit@10:0.909
+INFO:root:Test Hit@1(10)    = 0.815(0.909) at epoch 112 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 113 batch: 617 loss: 0.0005049262545071542
+INFO:root:Evaluate at epoch 113: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.815
+INFO:root:Hit@10:0.909
+INFO:root:Test Hit@1(10)    = 0.815(0.909) at epoch 113 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 114 batch: 617 loss: 0.0005034132627770305
+INFO:root:Evaluate at epoch 114: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.814
+INFO:root:Hit@10:0.909
+INFO:root:Test Hit@1(10)    = 0.814(0.909) at epoch 114 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 115 batch: 617 loss: 0.0005019271629862487
+INFO:root:Evaluate at epoch 115: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.88
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.814
+INFO:root:Hit@10:0.909
+INFO:root:Test Hit@1(10)    = 0.814(0.909) at epoch 115 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 116 batch: 617 loss: 0.0005004641716368496
+INFO:root:Evaluate at epoch 116: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.88
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.814
+INFO:root:Hit@10:0.909
+INFO:root:Test Hit@1(10)    = 0.814(0.909) at epoch 116 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 117 batch: 617 loss: 0.000499021727591753
+INFO:root:Evaluate at epoch 117: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.88
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.814
+INFO:root:Hit@10:0.909
+INFO:root:Test Hit@1(10)    = 0.814(0.909) at epoch 117 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 118 batch: 617 loss: 0.0004976065247319639
+INFO:root:Evaluate at epoch 118: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.88
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.909
+INFO:root:Test Hit@1(10)    = 0.813(0.909) at epoch 118 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 119 batch: 617 loss: 0.0004960204823873937
+INFO:root:Evaluate at epoch 119: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.88
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.909
+INFO:root:Test Hit@1(10)    = 0.813(0.909) at epoch 119 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 120 batch: 617 loss: 0.0004948951536789536
+INFO:root:Evaluate at epoch 120: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.88
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.909
+INFO:root:Test Hit@1(10)    = 0.813(0.909) at epoch 120 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 121 batch: 617 loss: 0.0004935509641654789
+INFO:root:Evaluate at epoch 121: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.88
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.909
+INFO:root:Test Hit@1(10)    = 0.813(0.909) at epoch 121 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 122 batch: 617 loss: 0.0004922270309180021
+INFO:root:Evaluate at epoch 122: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.88
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.909
+INFO:root:Test Hit@1(10)    = 0.813(0.909) at epoch 122 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 123 batch: 617 loss: 0.0004909214330837131
+INFO:root:Evaluate at epoch 123: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.88
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.909
+INFO:root:Test Hit@1(10)    = 0.812(0.909) at epoch 123 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 124 batch: 617 loss: 0.0004896314931102097
+INFO:root:Evaluate at epoch 124: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.88
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.909
+INFO:root:Test Hit@1(10)    = 0.812(0.909) at epoch 124 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 125 batch: 617 loss: 0.0004883631481789052
+INFO:root:Evaluate at epoch 125: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.88
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.909
+INFO:root:Test Hit@1(10)    = 0.812(0.909) at epoch 125 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 126 batch: 617 loss: 0.000487110490212217
+INFO:root:Evaluate at epoch 126: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.88
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.908
+INFO:root:Test Hit@1(10)    = 0.812(0.908) at epoch 126 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 127 batch: 617 loss: 0.00048587750643491745
+INFO:root:Evaluate at epoch 127: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.88
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.908
+INFO:root:Test Hit@1(10)    = 0.812(0.908) at epoch 127 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 128 batch: 617 loss: 0.0004846616357099265
+INFO:root:Evaluate at epoch 128: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.88
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.908
+INFO:root:Test Hit@1(10)    = 0.812(0.908) at epoch 128 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 129 batch: 617 loss: 0.00048327367403544486
+INFO:root:Evaluate at epoch 129: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.908
+INFO:root:Test Hit@1(10)    = 0.812(0.908) at epoch 129 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 130 batch: 617 loss: 0.00048233673442155123
+INFO:root:Evaluate at epoch 130: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.88
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.908
+INFO:root:Test Hit@1(10)    = 0.812(0.908) at epoch 130 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 131 batch: 617 loss: 0.00048118431004695594
+INFO:root:Evaluate at epoch 131: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.88
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.908
+INFO:root:Test Hit@1(10)    = 0.812(0.908) at epoch 131 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 132 batch: 617 loss: 0.00048004140262492
+INFO:root:Evaluate at epoch 132: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.908
+INFO:root:Test Hit@1(10)    = 0.812(0.908) at epoch 132 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 133 batch: 617 loss: 0.0004789115337189287
+INFO:root:Evaluate at epoch 133: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.908
+INFO:root:Test Hit@1(10)    = 0.812(0.908) at epoch 133 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 134 batch: 617 loss: 0.00047779708984307945
+INFO:root:Evaluate at epoch 134: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.908
+INFO:root:Test Hit@1(10)    = 0.812(0.908) at epoch 134 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 135 batch: 617 loss: 0.00047669795458205044
+INFO:root:Evaluate at epoch 135: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.907
+INFO:root:Test Hit@1(10)    = 0.812(0.907) at epoch 135 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 136 batch: 617 loss: 0.00047561340034008026
+INFO:root:Evaluate at epoch 136: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.907
+INFO:root:Test Hit@1(10)    = 0.812(0.907) at epoch 136 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 137 batch: 617 loss: 0.0004745439800899476
+INFO:root:Evaluate at epoch 137: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.791
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.907
+INFO:root:Test Hit@1(10)    = 0.812(0.907) at epoch 137 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 138 batch: 617 loss: 0.00047348940279334784
+INFO:root:Evaluate at epoch 138: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.907
+INFO:root:Test Hit@1(10)    = 0.812(0.907) at epoch 138 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 139 batch: 617 loss: 0.00047225880553014576
+INFO:root:Evaluate at epoch 139: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.889
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.907
+INFO:root:Test Hit@1(10)    = 0.812(0.907) at epoch 139 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 140 batch: 617 loss: 0.0004714575770776719
+INFO:root:Evaluate at epoch 140: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.907
+INFO:root:Test Hit@1(10)    = 0.812(0.907) at epoch 140 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 141 batch: 617 loss: 0.0004704499733634293
+INFO:root:Evaluate at epoch 141: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.906
+INFO:root:Test Hit@1(10)    = 0.812(0.906) at epoch 141 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 142 batch: 617 loss: 0.0004694508679676801
+INFO:root:Evaluate at epoch 142: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.906
+INFO:root:Test Hit@1(10)    = 0.812(0.906) at epoch 142 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 143 batch: 617 loss: 0.0004684621817432344
+INFO:root:Evaluate at epoch 143: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.812
+INFO:root:Hit@10:0.906
+INFO:root:Test Hit@1(10)    = 0.812(0.906) at epoch 143 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 144 batch: 617 loss: 0.0004674866213463247
+INFO:root:Evaluate at epoch 144: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.906
+INFO:root:Test Hit@1(10)    = 0.813(0.906) at epoch 144 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 145 batch: 617 loss: 0.0004665214801207185
+INFO:root:Evaluate at epoch 145: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.906
+INFO:root:Test Hit@1(10)    = 0.813(0.906) at epoch 145 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 146 batch: 617 loss: 0.00046556873712688684
+INFO:root:Evaluate at epoch 146: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.906
+INFO:root:Test Hit@1(10)    = 0.813(0.906) at epoch 146 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 147 batch: 617 loss: 0.00046462781028822064
+INFO:root:Evaluate at epoch 147: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.906
+INFO:root:Test Hit@1(10)    = 0.813(0.906) at epoch 147 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 148 batch: 617 loss: 0.00046369913616217673
+INFO:root:Evaluate at epoch 148: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.906
+INFO:root:Test Hit@1(10)    = 0.813(0.906) at epoch 148 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================
+INFO:root:epoch: 149 batch: 617 loss: 0.0004626047157216817
+INFO:root:Evaluate at epoch 149: batch 617...
+INFO:root:========Validation========
+INFO:root:#Entity: 225
+INFO:root:Hit@1: 0.796
+INFO:root:Hit@10:0.884
+INFO:root:===========Test===========
+INFO:root:#Entity: 10500
+INFO:root:Hit@1: 0.813
+INFO:root:Hit@10:0.906
+INFO:root:Test Hit@1(10)    = 0.813(0.906) at epoch 149 batch 617
+INFO:root:Best Valid Hit@1  = 0.813(0.893) at epoch 81
+INFO:root:Best Valid Hit@10 = 0.907(0.804) at epoch 25
+INFO:root:Test @ Best Valid = 0.819(0.912) at epoch 81 batch 617
+INFO:root:Best Test  Hit@1  = 0.82(0.913) at epoch 72
+INFO:root:Best Test  Hit@10 = 0.914(0.816) at epoch 28
+INFO:root:====================================

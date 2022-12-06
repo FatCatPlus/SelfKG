@@ -1,14 +1,16 @@
-import os
-from os.path import abspath, dirname, join, exists
-from collections import defaultdict
-import json
 import codecs
 import csv
-from tqdm import tqdm
+import json
+import os
 import pickle
 import random
+from collections import defaultdict
+from os.path import abspath, dirname, exists, join
+
 import numpy as np
 import torch
+from tqdm import tqdm
+
 
 def fix_seed(seed=37):
     random.seed(seed)
@@ -29,6 +31,7 @@ os.makedirs(DATA_DIR, exist_ok=True)
 OUT_DIR = join(PROJ_DIR, 'out')
 EVAL_DIR = join(PROJ_DIR, 'evaluate')
 os.makedirs(OUT_DIR, exist_ok=True)
+FAIL_DIR = join(PROJ_DIR, 'failure')
 
 TOKEN_LEN = 50
 VOCAB_SIZE = 100000

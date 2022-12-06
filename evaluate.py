@@ -38,6 +38,17 @@ checkpoint = torch.load(path)
 model.load_state_dict(checkpoint['model'])
 epoch = checkpoint['epoch']
 
-with torch.no_grad():
-    model.eval()
-    for 
+evaluator = Trainer(training=False)
+evaluator.model = model.cuda()
+_1, _2, _3, _4, fail_ids2_at1 = evaluator.evaluate(124)
+# print(fail_ids2_at1)
+triple_1 = DBP15KRawNeighbors.id_neighbors_loader
+
+
+
+
+# with open(FAIL_DIR + 'hit1_failed_2.txt','wb') as f:
+#     for line in fail_ids_at1:
+#         line = str(line)
+#         a = line.strip().split("\t")
+#         f.write(a+'\n')

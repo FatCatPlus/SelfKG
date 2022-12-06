@@ -6,40 +6,37 @@ import torch
 torch.manual_seed(37)
 torch.cuda.manual_seed(37)
 
+import numpy as np
 import torch.nn as nn
 import torch.nn.functional as F
-import numpy as np
 
 np.random.seed(37)
-import torch.optim as optim
-from settings import *
-
-import torch.utils.data as Data
-from loader.DBP15kRawLoader import DBP15kRawLoader
-from loader.DWY100K import DWY100KLoader
-
-from loader.BWLoader import BWLoader
-
-from script.preprocess.get_token import Token
-from loader.Neighbors import NeighborsLoader
-from script.preprocess.neighbor_token import NeighborToken
-
-from script.preprocess.deal_dataset import Mydataset
+import argparse
+import pickle
 import random
+from datetime import datetime
+
 import faiss
 import pandas as pd
+import torch
+import torch.optim as optim
+import torch.utils.data as Data
+# using labse
+from transformers import *
 
-import argparse
+from loader.BWLoader import BWLoader
+from loader.DBP15kRawLoader import DBP15kRawLoader
+from loader.DWY100K import DWY100KLoader
+from loader.Neighbors import NeighborsLoader
+from script.preprocess.deal_dataset import Mydataset
+from script.preprocess.get_token import Token
+from script.preprocess.neighbor_token import NeighborToken
+from settings import *
 
 # import torchtext.vocab as vocab
 
-from datetime import datetime
 
-# using labse
-from transformers import *
-import torch
 
-import pickle
 
 MAX_LEN = 130
 
@@ -61,6 +58,7 @@ class LaBSEEncoder(nn.Module):
         return F.normalize(output[0][:, 1:-1, :].sum(dim=1))
 
 
+#这个应该是DBP15k的emb类
 class Embedding(object):
     def __init__(self):
 
@@ -85,6 +83,7 @@ class Embedding(object):
         with open(join(dir_path, "raw_LaBSE_emb_2.pkl"),'wb') as f:
             pickle.dump(id_embedding_2, f)
 
+#DWY100k的emb类
 class DWYEmbedding(object):
     def __init__(self):
  

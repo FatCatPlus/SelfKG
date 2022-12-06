@@ -1,8 +1,11 @@
-from settings import *
 import csv
+import pickle
+
 import pandas as pd
 import torch
-import pickle
+
+from settings import *
+
 
 class DBP15KRawNeighbors():
     def __init__(self, language, doc_id):
@@ -20,7 +23,6 @@ class DBP15KRawNeighbors():
     def load(self):
         with open(join(self.path, "raw_LaBSE_emb_" + self.doc_id + '.pkl'), 'rb') as f:
             self.id_entity = pickle.load(f)
-
 
     def id_neighbors_loader(self):
         data = pd.read_csv(join(self.path, 'triples_' + self.doc_id), header=None, sep='\t')
